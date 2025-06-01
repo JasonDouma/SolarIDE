@@ -1,0 +1,45 @@
+{
+    "editorSettings": {
+        "background_color": "slate blue",
+        "text_color": "thistle1",
+        "editor_default_text": "Solar IDE Code Editor.\n\n\nOPEN OR CREATE PROJECT TO CONTINUE!"
+    },
+    "default_code_placeholders": {
+        "python": "x = 0\nwhile x < 10:\n    print(x)\n    x += 1",
+        "java": "public class Main { // CHANGE MAIN TO FILE NAME!\n    public static void main(String[] args) {\n        System.out.println(\"Hello, World!\");\n    }\n}"
+    },
+    "settings": {
+        "first_open": "False"
+    },
+    "terminal_input_settings": {
+        "text_color": "white",
+        "background_color": "black",
+        "text_size": "10"
+    },
+    "terminal_output_settings": {
+        "defualt_text": "Welcome To SolarIDE.\nMade With Python.\nGithub: JasonDouma\n",
+        "text_color": "white",
+        "background_color": "black",
+        "text_size": "10",
+        "error_color": "red",
+        "warning_color": "gold2",
+        "success_color": "green",
+        "info_color": "light blue"
+    },
+    "cmd_commands": {
+        "help": "Display help information.",
+        "openterm": "Opens Terminal Output In A Popup Window",
+        "clear": "Clear the terminal output.",
+        "exit": "Exit the IDE.",
+        "openconfig": "Open the configuration file.",
+        "list": "List files in the current directory.",
+        "createfile": "Open's Create Project Window",
+        "rmfile": "Opens File Removal Window",
+        "cleareditor": "Clears All Code In Text Editor"
+    },
+    "user_program_properties": {
+        "project_opened": "False",
+        "opened_directory": "",
+        "project_name": ""
+    }
+}
